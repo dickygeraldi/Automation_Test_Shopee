@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="7">
+
+  <testsuite name="ebay_open_categories"
+    errors="0" failures="0" hostname="" id="" package="ebay_open_categories" skipped="0"
+    tests="7" time="73.31" timestamp="">
+  
+    <testcase name="open categories" classname="ebay_open_categories" time="29.93" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="open categories celphone" classname="ebay_open_categories" time="4.969" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="open categories smartphone" classname="ebay_open_categories" time="18.12" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="open categories apple (iphone)" classname="ebay_open_categories" time="19.95" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="get filter more" classname="ebay_open_categories" time="0.2120" assertions="0">
+    </testcase>
+  
+    <testcase name="switch windows" classname="ebay_open_categories" time="0.02600" assertions="0">
+    </testcase>
+  
+    <testcase name="filter with price from IDR 100.000 to 10.000.000" classname="ebay_open_categories" time="0.1090" assertions="0">
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

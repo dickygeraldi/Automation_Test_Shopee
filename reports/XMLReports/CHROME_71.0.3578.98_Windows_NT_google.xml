@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="google"
+    errors="0" failures="1" hostname="" id="" package="google" skipped="0"
+    tests="1" time="10.92" timestamp="">
+  
+    <testcase name="Demo test google" classname="google" time="10.92" assertions="2">
+
+      <failure message="Testing if the page title equals &#34;google&#34; in 1000 ms. - expected [0;32m&#34;google&#34;[0m but got: [0;31m&#34;Google&#34;[0m">    at Object.Demo test google (C:\Users\GANIS\Test_Dicky\tests\google.js:7:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    <failure message="    at Object.Demo test google (C:\Users\GANIS\Test_Dicky\tests\google.js:7:18)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
